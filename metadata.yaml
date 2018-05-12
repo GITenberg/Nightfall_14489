@@ -1,0 +1,28 @@
+_repo: Nightfall_14489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pryde, Anthony
+    gutenberg_agent_id: '6516'
+    url: http://www.gutenberg.org/2009/agents/6516
+description: ''
+gutenberg_issued: '2005-06-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'People with disabilities -- Fiction'
+- !lcsh 'Married people -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 20th century -- Fiction'
+title: Nightfall
+url: http://www.gutenberg.org/ebooks/14489
